@@ -33,9 +33,36 @@ A customer can’t find a product on the floor, so an associate opens StockScout
 
 ## Data sources and AI methods
 
+### Inventory System Data: 
+Product Name  
+Brand 
+SKU  
+style code  
+UPC/EAN   
+Amount of stock  
+Bin  
+colour  
+Size  
+Division (e.g. apparel, footwear)  
+Category (e.g. training, running, basketball)  
+RRP: €149.99 → Current: €129.99 (Markdown 1)  
+Gender  
+
+
 ## Challenges
 
 ## What next?
 
-## Acknowledgments
+## Bibiliography 
+
+Das, Resil, et al. ““Zero Consumers”: What They Want and Why It Matters | McKinsey.” Www.mckinsey.com, 18 Oct. 2023, www.mckinsey.com/industries/retail/our-insights/zero-consumers-what-they-want-and-why-it-matters.  
+  
+Salesforce. A Letter from Salesforce’s Chief Ethical & Humane Use Officer. 2024.  
+  
+Simbe Robotics. “Retailers Race to Adopt Store Intelligence as Inefficiencies Swell to $162.7B and Threaten Margins.” GlobeNewswire News Room, Simbe Robotics, 17 June 2025, www.globenewswire.com/news-release/2025/06/17/3100709/0/en/Retailers-Race-to-Adopt-Store-Intelligence-as-Inefficiencies-Swell-to-162-7B-and-Threaten-Margins.html. Accessed 23 Oct. 2025.  
+  
+Tapscott, Kevin. “Out-of-Stocks: A Hidden Crisis in Retail | Zebra.” Zebra Technologies, 13 Aug. 2024, www.zebra.com/us/en/blog/posts/2024/out-of-stocks-hidden-crisis-retail.html.  
+  
+Zebra Technologies Corp. “Zebra 14th Annual Global Shopper Study.” 3 Nov. 2021.  
+
 
