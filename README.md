@@ -4,10 +4,6 @@ Finding the correct products for customers in retail is difficult.
 StockScout solves this.  
 We are an AI solution that matches the best product to the customer. 
 
-## Summary
-
- 
-
 
 ## Background
 
@@ -23,6 +19,17 @@ Considered holistically, the data shows that zero consumers are on the rise, and
 3) **Streamlines Operations:** Minimises FOH and BOH back-and-forth.
 
 ## How is it used?
+A customer can’t find a product on the floor, so an associate opens StockScout AI on their handheld. The associate starts either a **Specific Product Request** (scan barcode or enter style code) or a **Specific Trait Request** (describe what the customer wants). A **Hard Constraints** step then sets guardrails—**division, gender, size (+ allowed deviation), and category**. StockScout returns the **top 5 in-store matches** ranked by similarity. The associate reviews results with the customer, requests items from BOH if needed, or refines the search to improve the fit.
+
+### Flow 
+<img width="9892" height="2966" alt="Untitled diagram-2025-10-29-200509" src="https://github.com/user-attachments/assets/245e915c-5b5a-428a-b72c-2bb5488bfdc6" />
+
+
+### Rough Mockup 
+<img src="https://github.com/user-attachments/assets/01336a46-fada-454f-985d-810a9ce505e1" width="30%" height="30%"/>
+<img src="https://github.com/user-attachments/assets/8a70a791-7208-44e3-a880-72eae95cd862" width="30%" height="30%"/>
+
+
 
 ## Data sources and AI methods
 
