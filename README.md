@@ -7,7 +7,6 @@ We are an AI solution that matches the best product to the customer.
 ## Summary 
 StockScout is an AI assistant for sales associates that delivers instant in-store similar product suggestions, matching the best product to the customer.
 
-_Building AI course project_
 
 ## Background
 
@@ -72,5 +71,8 @@ Simbe Robotics. “Retailers Race to Adopt Store Intelligence as Inefficiencies 
 Tapscott, Kevin. “Out-of-Stocks: A Hidden Crisis in Retail | Zebra.” Zebra Technologies, 13 Aug. 2024, www.zebra.com/us/en/blog/posts/2024/out-of-stocks-hidden-crisis-retail.html.  
   
 Zebra Technologies Corp. “Zebra 14th Annual Global Shopper Study.” 3 Nov. 2021.  
+
+## Acknowledgements 
+* Created as part of the Building AI course from the University of Helsinki and Reaktor
 
 
