@@ -5,7 +5,7 @@ StockScout solves this.
 We are an AI solution that matches the best product to the customer. 
 
 ## Summary 
-
+StockScout is an AI assistant for sales associates that delivers instant in-store similar product suggestions, matching the best product to the customer.
 
 ## Background
 
