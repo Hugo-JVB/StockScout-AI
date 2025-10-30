@@ -4,6 +4,8 @@ Finding the correct products for customers in retail is difficult.
 StockScout solves this.  
 We are an AI solution that matches the best product to the customer. 
 
+## Summary 
+
 
 ## Background
 
@@ -48,10 +50,14 @@ Category (e.g. training, running, basketball)
 RRP: €149.99 → Current: €129.99 (Markdown 1)  
 Gender  
 
-
-## Challenges
+### Potential AI Methods:
+* **k-Nearest Neighbors (k-NN)** 
+* **Bag-of-words / TF-IDF**
+* **Logistic regression**
+* **Simple optimization / hill climbing**
 
 ## What next?
+I am in need of a programmer / data scientist to help this become reality, please contact me if interested. 
 
 ## Bibiliography 
 
