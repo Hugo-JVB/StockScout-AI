@@ -9,7 +9,7 @@ StockScout is an AI assistant for sales associates that delivers instant in-stor
 
 
 ## Background
-
+### Desirability:
 Today's shoppers expect a seamless in-store experience and have less tolerance for shortfalls; when the right product isn’t immediately findable, they walk. Associates need a fast way to connect the best product to the customer; StockScout makes that instant. 
 
 Zero consumers are a rising and global phenomenon, who are characterized by having zero loyalty, zero midrange (either scrimp or splurge), valuing sustainability and being omnichannel consumers (Das et al.). Most notably, zero consumers expect in-store retailers to have the same convenience as online  shopping (Das et al.). Shoppers expect to find and purchase products anywhere at anytime, however 71% are leaving without items they came to buy (Zebra Technologies Corp). According to a Salesforce's 2024 Connected Customer study, data from over 16,500 consumers and business buyers shows that poor customer service is the second top reason why customers stop buying (Salesforce). Retailers are suffering a $162.7 billion in lost margin each year in America from in-store inefficiencies (Simbe Robotics). As a result, 81 percent of retail associates shared that their company would benefit from more advanced inventory management tools (Tapscott). In particular, 61 percent of associates said artificial intelligence will help them create a better customer experience (Zebra Technologies Corp). 
